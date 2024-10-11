@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+<body>
+    <h1>Ovo je naslov</h1>
+    <h2>Ovo je podnaslov</h2>
+    <p>Ovo je prvi odlomak.</p>
+    <p>Ovo je drugi odlomak.</p>
+    <figure>
+        <a href="images/slika1-large.jpg" target="_blank">
+            <img src="images/slika1-thumbnail.jpg" alt="Prva slika" width="200">
+        </a>
+        <figcaption>Ovo je opis prve slike. Klikni na sliku da otvoriš veću verziju.</figcaption>
+    </figure>
+    <figure>
+        <a href="https://www.example.com/images/slika2-large.jpg" target="_blank">
+            <img src="https://www.example.com/images/slika2-thumbnail.jpg" alt="Druga slika" width="200">
+        </a>
+        <figcaption>Ovo je opis druge slike. Klikni na sliku da otvoriš veću verziju.</figcaption>
+    </figure>
+</body>
+</html>
